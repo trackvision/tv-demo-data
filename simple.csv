@@ -1,4 +1,4 @@
 "lot","product","identifier","quantity","production_date","location","status"
 T123,"Cheese","637647673676476",1200,"2019-01-01","Warehouse A","In Stock"
-T123,"Cheese","637647673676476",1200,"2019-01-01","Warehouse A","In Stock"
-T123,"Cheese","637647673676476",1200,"2019-01-01","Warehouse A","In Stock"
+T124,"Cheese","637647673676476",1200,"2019-01-02","Warehouse A","In Stock"
+T125,"Cheese","637647673676476",1200,"2019-01-03","Warehouse A","In Stock"
